@@ -1904,6 +1904,7 @@ input, select, textarea {
 /* Table */
 
 	table {
+		table-layout: fixed; 
 		width: 100%;
 		text-align: left;
 		border-collapse:separate; 
@@ -1912,6 +1913,10 @@ input, select, textarea {
 
 	td {
 		vertical-align: middle;
+		word-wrap: break-word;
+		align-items: center; 
+		justify-content: center; 
+		margin: auto;
 	}
 	
 	td a, td img {
@@ -2616,3 +2621,27 @@ input, select, textarea {
 				}
 
 	}
+
+	.accordion {
+		background-color: #eee;
+		color: #444;
+		cursor: pointer;
+		padding: 18px;
+		width: 100%;
+		border: none;
+		text-align: center;
+		outline: none;
+		font-size: 15px;
+		transition: 0.4s;
+	  }
+	  
+	  .active, .accordion:hover {
+		background-color: #ccc; 
+	  }
+	  
+	  .panel {
+		padding: 0 18px;
+		display: none;
+		background-color: white;
+		overflow: hidden;
+	  }
