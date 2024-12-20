@@ -17,42 +17,89 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+<!-- # About me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+To be decided... -->
+
+<!-- My research interest includes computer vision. My google scholar badge: <a href='https://scholar.google.com/citations?user=-1r-QeMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *December 04, 2024*: &nbsp;🎉🎉 Accepted Full Paper [Webcam-based Pupil Diameter Prediction Benefits from Upscaling](https://arxiv.org/abs/2408.10397) - at **ICAART 2025** and will be published in SCITEPRESS 🎉🎉. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- Paper-1 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICAART 2025</div>
+      <img src='images/EyeDentifyCover.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+  2025 - [Webcam-based Pupil Diameter Prediction Benefits from Upscaling](https://arxiv.org/abs/2408.10397).
+  
+  **Vijul Shah**, Brian B. Moser, Ko Watanabe, Andreas Dengel
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+  <strong>
+    <span class='show_paper_citations' data='-1r-QeMAAAAJ:u-x6o8ySG0sC'></span>
+  </strong>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  </div>
 </div>
+
+<!-- Paper-2 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Arxiv 2024</div>
+      <img src='images/EyeDentifyCover.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  2024 - [EyeDentify: A Dataset for Pupil Diameter Estimation based on Webcam Images](https://arxiv.org/abs/2407.11204).
+
+  **Vijul Shah**, Ko Watanabe, Brian B. Moser, Andreas Dengel
+
+  <strong>
+    <span class='show_paper_citations' data='-1r-QeMAAAAJ:u5HHmVD_uO8C'></span>
+  </strong>
+
+  </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2018 - 2021*, Computer Science, M.Sc., RPTU Kaiserslautern, Germany
+  - 1st Specialization in Intelligent Systems.
+  - 2nd Specialization in Data Visualization & Scientific Computing.
+  - Thesis: Pupil Diameter Estimation Using Super Resolution
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2014 - 2018*, Computer Science, B.E., LDRP-ITR Gandhinagar, India  
+
+# 🎖 Certificates
+- *July 06, 2018* - Oracle Certified Expert, Java EE 6 Web Component Developer
+
+- *October 06, 2017* - Oracle Certified Professional, Java SE 6 Programmer.
+
+# 💻 Experience
+
+- *Dec 2022 - Current*:  ML Engineer at Fraunhofer IAIS, Sankt Augustin, Germany.
+
+- *Aoril 2022 – Aug 2022*: Student Assistant at DFKI (German Research Center for Artificial Intelligence), Kaiserslautern, Germany.
+
+- *Aug 2020 – Sept 2021*: Full Stack Developer at Bonds India, New Delhi, India.
+
+- *Dec 2019 – Jun 2020*: App Development Intern at Stackmaze solutions pvt ltd, Ahmedabad, India
+
+<!-- # Projects
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+# Languages
+- English: Professional Proficiency (C1 - IELTS)
+- German: Elementary Proficiency (A2 - German Exam)
+- Hindi: Professional Proficiency
+- Gujarati: Mother Tongue
