@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Vijul Shah"
-description              : "Vijul Shah - Homepage"
+description              : ""
 repository               : "vijulshah/vijulshah.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/vijulshah/"
+  github           : "vijulshah"
   google_plus      :
   keybase          :
   instagram        : "https://www.instagram.com/vijul_shah/"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/vijul-shah-38a774168/"
+  linkedin         : "vijul-shah-38a774168"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0009-0008-5174-0793"
   pinterest        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://x.com/vijul_19"
+  twitter          : "vijul_19"
   vine             :
   weibo            :
   xing             :
