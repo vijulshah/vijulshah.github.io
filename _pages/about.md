@@ -75,7 +75,7 @@ redirect_from:
 
 - *October 06, 2017* - Oracle Certified Professional, Java SE 6 Programmer.
 
-# 💻 Experience
+# 💻 Experiences
 
 - *Dec 2022 - Current*:  ML Engineer at Fraunhofer IAIS, Sankt Augustin, Germany.
 
