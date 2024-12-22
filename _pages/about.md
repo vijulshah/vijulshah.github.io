@@ -71,9 +71,10 @@ redirect_from:
 - *2016 - 2020*, Computer Science, B.E., LDRP-ITR Gandhinagar, India  
 
 # 🎖 Certificates
-- *July 06, 2018* - Oracle Certified Expert, Java EE 6 Web Component Developer
 
-- *October 06, 2017* - Oracle Certified Professional, Java SE 6 Programmer.
+- *July 06, 2018* - Oracle Certified Expert, Java EE 6 Web Component Developer. [See the info here](https://www.credly.com/users/vijul-shah)
+
+- *October 06, 2017* - Oracle Certified Professional, Java SE 6 Programmer. [See the info here](https://www.credly.com/users/vijul-shah)
 
 # 💻 Experiences
 
