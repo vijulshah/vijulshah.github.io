@@ -17,16 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<!-- # About me
-
-To be decided... -->
-
-<!-- My research interest includes computer vision. My google scholar badge: <a href='https://scholar.google.com/citations?user=-1r-QeMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
-
-
-# 🔥 News
-- *December 04, 2024*: &nbsp;🎉🎉 Accepted Full Paper [Webcam-based Pupil Diameter Prediction Benefits from Upscaling](https://arxiv.org/abs/2408.10397) - at **ICAART 2025** and will be published in SCITEPRESS 🎉🎉. 
-
 # 📝 Publications 
 
 <!-- Paper-1 -->
@@ -34,7 +24,7 @@ To be decided... -->
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICAART 2025</div>
-      <img src='images/EyeDentifyCover.png' alt="sym" width="100%">
+      <img src='../images/EyeDentify++Cover.jpg' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -55,7 +45,7 @@ To be decided... -->
   <div class='paper-box-image'>
     <div>
       <div class="badge">Arxiv 2024</div>
-      <img src='images/EyeDentifyCover.png' alt="sym" width="100%">
+      <img src='../images/EyeDentifyCover.jpg' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -73,12 +63,12 @@ To be decided... -->
 
 # 📖 Educations
 
-- *2018 - 2021*, Computer Science, M.Sc., RPTU Kaiserslautern, Germany
+- *2021 - 2024*, Computer Science, M.Sc., RPTU Kaiserslautern, Germany
   - 1st Specialization in Intelligent Systems.
   - 2nd Specialization in Data Visualization & Scientific Computing.
   - Thesis: Pupil Diameter Estimation Using Super Resolution
 
-- *2014 - 2018*, Computer Science, B.E., LDRP-ITR Gandhinagar, India  
+- *2016 - 2020*, Computer Science, B.E., LDRP-ITR Gandhinagar, India  
 
 # 🎖 Certificates
 - *July 06, 2018* - Oracle Certified Expert, Java EE 6 Web Component Developer
@@ -89,7 +79,7 @@ To be decided... -->
 
 - *Dec 2022 - Current*:  ML Engineer at Fraunhofer IAIS, Sankt Augustin, Germany.
 
-- *Aoril 2022 – Aug 2022*: Student Assistant at DFKI (German Research Center for Artificial Intelligence), Kaiserslautern, Germany.
+- *April 2022 – Aug 2022*: Research Assistant at DFKI (German Research Center for Artificial Intelligence), Kaiserslautern, Germany.
 
 - *Aug 2020 – Sept 2021*: Full Stack Developer at Bonds India, New Delhi, India.
 
@@ -98,7 +88,8 @@ To be decided... -->
 <!-- # Projects
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-# Languages
+# 🌐 Languages
+
 - English: Professional Proficiency (C1 - IELTS)
 - German: Elementary Proficiency (A2 - German Exam)
 - Hindi: Professional Proficiency
