@@ -19,7 +19,49 @@ redirect_from:
 
 # 📝 Publications 
 
-<!-- Paper-1 -->
+<!-- Paper-4 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE - ICSA 2025</div>
+      <img src='../images/MLGymCover.jpg' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  2025 - [Architectural Proposal for Reproducible, Standardized Deep Learning Research](https://github.com/mlgym/mlgym/tree/project-for-UI-documentation).
+  
+  Max Lübbering, **Vijul Shah**, Moinam Chatterjee, Priya Priya, Osama Soliman, Rafet Sifa
+
+  <strong>
+    <span class='show_paper_citations' data='-1r-QeMAAAAJ:u-x6o8ySG0sC'></span>
+  </strong>
+
+  </div>
+</div>
+
+<!-- Paper-3 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ACM - ETRA 2025</div>
+      <img src='../images/PupilSenseCover.jpg' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  2025 - [PupilSense: A Novel Application for Webcam-Based Pupil Diameter Estimation](https://huggingface.co/spaces/vijulshah/pupilsense).
+  
+  **Vijul Shah**, Ko Watanabe, Brian B. Moser, Andreas Dengel
+
+  <strong>
+    <span class='show_paper_citations' data='-1r-QeMAAAAJ:u-x6o8ySG0sC'></span>
+  </strong>
+
+  </div>
+</div>
+
+<!-- Paper-2 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -29,7 +71,7 @@ redirect_from:
   </div>
   <div class='paper-box-text' markdown="1">
 
-  2025 - [Webcam-based Pupil Diameter Prediction Benefits from Upscaling](https://arxiv.org/abs/2408.10397).
+  2025 - [Webcam-based Pupil Diameter Prediction Benefits from Upscaling](https://www.scitepress.org/publishedPapers/2025/131628/pdf/index.html).
   
   **Vijul Shah**, Brian B. Moser, Ko Watanabe, Andreas Dengel
 
@@ -40,7 +82,7 @@ redirect_from:
   </div>
 </div>
 
-<!-- Paper-2 -->
+<!-- Paper-1 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -78,7 +120,9 @@ redirect_from:
 
 # 💻 Experiences
 
-- *Dec 2022 - Current*:  ML Engineer at Fraunhofer IAIS, Sankt Augustin, Germany.
+- *April 2025 - Current*:  Data Scientist at Fraunhofer IAIS, Sankt Augustin, Germany.
+
+- *Dec 2022 - March 2025*:  Machine Learning Engineer at Fraunhofer IAIS, Sankt Augustin, Germany.
 
 - *April 2022 – Aug 2022*: Research Assistant at DFKI (German Research Center for Artificial Intelligence), Kaiserslautern, Germany.
 
