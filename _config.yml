@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Vijul Shah"
   avatar           : "images/Final.jpg"
-  bio              : "ML Engineer at Fraunhofer IAIS | Masters Student at RPTU Kaiserslautern-Landau"
-  location         : "Kaiserslautern, Germany"
-  employer         :
+  bio              : "Data Scientist | Machine Learning Engineer | Full Stack Developer"
+  location         : "Sankt Augustin, Germany"
+  employer         : "Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=-1r-QeMAAAAJ&hl"
   email            : "vijul1904shah@gmail.com"
