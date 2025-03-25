@@ -44,7 +44,7 @@ redirect_from:
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ACM - ETRA 2025</div>
+      <div class="badge">ETRA 2025</div>
       <img src='../images/PupilSenseCover.jpg' alt="sym" width="100%">
     </div>
   </div>
